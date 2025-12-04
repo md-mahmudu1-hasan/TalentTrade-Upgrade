@@ -1,0 +1,7 @@
+.active {
+    text-decoration: overline;
+    text-underline-offset: 2px;
+    text-decoration-color: #FCCD2A;
+    color: #FCCD2A;
+    font-weight: bold;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://plus.unsplash.com/premium_photo-1682088176629-0f48d58a614c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Rina Das",
+    "providerEmail": "rina@skillswap.com",
+    "price": 15,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Gentle yoga sessions focusing on flexibility and relaxation.",
+    "image": "https://plus.unsplash.com/premium_photo-1661777196224-bfda51e61cfd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "category": "Fitness"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Intro to Python Programming",
+    "providerName": "Tariq Rahman",
+    "providerEmail": "tariq@skillswap.com",
+    "price": 25,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Learn the basics of Python programming with hands-on exercises.",
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "category": "Programming"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Photography Essentials",
+    "providerName": "Nabila Karim",
+    "providerEmail": "nabila@skillswap.com",
+    "price": 30,
+    "rating": 4.5,
+    "slotsAvailable": 2,
+    "description": "Fundamentals of photography including composition and lighting.",
+    "image": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "category": "Art"
+  },
+  {
+    "skillId": 6,
+    "skillName": "French Language Basics",
+    "providerName": "Jean Dupont",
+    "providerEmail": "jean@skillswap.com",
+    "price": 18,
+    "rating": 4.6,
+    "slotsAvailable": 3,
+    "description": "Beginner French lessons focused on conversational skills.",
+    "image": "https://images.unsplash.com/photo-1560783030-e0b308106888?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "category": "Language"
+  }
+]
